@@ -328,6 +328,7 @@ nav .fa1 {
 @media(max-width: 1000px) {
     #services {
         padding: 0 0;
+        overflow-x: hidden;
     }
 }
 
